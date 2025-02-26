@@ -1,4 +1,0 @@
-Hello Guys..
-this is the new file created by Bhaskar Reddy L
-It contains the Python code..
-
